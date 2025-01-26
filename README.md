@@ -1,6 +1,3 @@
-Sure! Below is the raw format for the `README.md` file:
-
-```
 # Gym Bro Website
 
 Welcome to the Gym Bro website! This is a responsive web application designed for a gym that provides information about its services, trainers, and contact details.
@@ -63,4 +60,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out if you have any questions or need further assistance!
 ```
 
-You can copy and paste this text into a file named `README.md`.
